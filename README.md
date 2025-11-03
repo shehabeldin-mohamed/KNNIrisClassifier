@@ -21,8 +21,8 @@ You can easily modify the value of `k` and test accuracy using different dataset
    ```bash
    git clone https://github.com/shehabeldin-mohamed/KNN-Iris-Classifier.git
    cd KNN-Iris-Classifier
-2. **Run the program by specifying how many neighbours you want, training dataset, and test dataset.**
-   **For example**
+2. **Move to src and run the program by specifying how many neighbours you want, training dataset, and test dataset.**
    ```bash
+   cd src
    python KNN.py 3 iris.data iris.test.data 
   
