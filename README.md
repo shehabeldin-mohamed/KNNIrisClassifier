@@ -1,6 +1,6 @@
 # KNN Iris Classifier
 
-A simple **K-Nearest Neighbors (KNN)** implementation in Java that classifies iris flowers into three species:
+A simple **K-Nearest Neighbors (KNN)** implementation in Python that classifies iris flowers into three species:
 - *Iris Setosa*
 - *Iris Versicolor*
 - *Iris Virginica*
